@@ -1,6 +1,6 @@
 # Hi there, I'm Dimitar 👋
 
-I'm a Junior Full-Stack Developer passionate about building functional and user-friendly web applications.  
+I'm a Junior Full-Stack Enthusiast passionate about building functional and user-friendly web applications.  
 💻 Python | Django | DRF | PostgreSQL | HTML | CSS | JavaScript | React  
 🛠 Tools: PyCharm, VS Code  
 
